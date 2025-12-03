@@ -44,7 +44,7 @@ small change to the config file, changing spi speed from 40mhz to 240mhz, if it 
 
 noticing that thing are running slowr with EQ 
 
-buffer incease to 15Kb
+buffer incease to 10Kb
 
 
 */
@@ -4628,3 +4628,4 @@ uint16_t colorbrightness(int16_t colorS, int8_t brightness) {
   output = (R) << 11 | (G) << 5 | B << 0;
   return output;
 }
+
