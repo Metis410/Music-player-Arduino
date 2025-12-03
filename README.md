@@ -1,5 +1,6 @@
 # Music-player
 Still WIP.
+For use in Arduino IDE esp32 version must be 2.0.14, to enable the use of TFT e_SPI
 
 This repository contain the source code for a full function Music Player.
 
