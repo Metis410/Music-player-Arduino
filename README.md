@@ -32,7 +32,4 @@ https://www.reddit.com/r/arduino/comments/1pcjqaz/real_time_eq_and_adjusting_cha
 https://www.reddit.com/r/arduino/comments/1p18srr/music_player_half_way_progress_demo/
 https://www.reddit.com/r/arduino/comments/1ok20k8/on_the_fly_reverse_playback/
 
-hopefully i can make it into this
-![a-music-player-project-small-step-in-a-big-project-v0-gk4yt0aspuvf1](https://github.com/user-attachments/assets/55742621-440d-4cc5-973d-b649b4fbfe51)
-
 
