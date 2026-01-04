@@ -13,14 +13,13 @@ Waveform visualizer.
 UI(mostly done).
 Display cover art.
 Song selection.
-Auto Update every bootup or manual
+Left/Right Balance.
+Album.
+Playlists.
 (adding more as this going)
 
 Planing to add:
 Bluetooth.
-Left/Right Balance.
-Album.
-Playlists.
 (adding more as this going)
 
 Limitation:
